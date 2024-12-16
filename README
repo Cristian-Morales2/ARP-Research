@@ -1,1 +1,6 @@
+This is a research Project I had made to look at and understand AI functionality using Unity's AR Foundation feature
+I take no credit for the code in the project
 
+To create this project, I followed this tutorial to understand what is needed to provide AR functionality: https://www.youtube.com/watch?v=FWyTf3USDCQ&t=6s
+
+AR Foundation documentation: https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@5.0/manual/index.html
