@@ -1,0 +1,11 @@
+com.unity.template.ar_mobile.launcher-jetified-arcore_client-0 C:\Users\Cristian\.gradle\caches\transforms-3\8f56f7bd0e5bdc0c456829721fdd8247\transformed\jetified-arcore_client\res
+com.unity.template.ar_mobile.launcher-pngs-1 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\debug
+com.unity.template.ar_mobile.launcher-resValues-2 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\debug
+com.unity.template.ar_mobile.launcher-rs-3 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\debug
+com.unity.template.ar_mobile.launcher-mergeDebugResources-4 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.unity.template.ar_mobile.launcher-mergeDebugResources-5 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.unity.template.ar_mobile.launcher-merged_res-6 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\debug
+com.unity.template.ar_mobile.launcher-debug-7 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\debug\res
+com.unity.template.ar_mobile.launcher-main-8 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.unity.template.ar_mobile.launcher-packaged_res-9 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\debug
+com.unity.template.ar_mobile.launcher-packaged_res-10 C:\Users\Cristian\Documents\ARP\ARP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\packaged_res\debug
